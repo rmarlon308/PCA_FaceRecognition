@@ -1,4 +1,4 @@
 # PCA_FaceRecognition
 
-El uso del conjunto de datos en este código se puede optar desde https://zenodo.org/record/3451524#.X-Zmg1NKhhE, recuerde leer los requisitos antes de descargarlo.
+The use of the dataset in this code can be obtained at https://zenodo.org/record/3451524#.X-Zmg1NKhhE, remember to read the requirements before downloading.
 
